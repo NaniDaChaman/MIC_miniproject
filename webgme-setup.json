@@ -1,0 +1,32 @@
+{
+  "components": {
+    "addons": {},
+    "decorators": {},
+    "layouts": {},
+    "plugins": {
+      "valid_check": {
+        "src": "src/plugins/valid_check",
+        "test": "test/plugins/valid_check"
+      }
+    },
+    "routers": {},
+    "seeds": {
+      "Othello": {
+        "src": "src/seeds/Othello"
+      },
+      "Sparsh_miniproject": {
+        "src": "src/seeds/Sparsh_miniproject"
+      }
+    },
+    "visualizers": {}
+  },
+  "dependencies": {
+    "addons": {},
+    "decorators": {},
+    "layouts": {},
+    "plugins": {},
+    "routers": {},
+    "seeds": {},
+    "visualizers": {}
+  }
+}
